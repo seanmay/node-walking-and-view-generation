@@ -1,6 +1,6 @@
 This is a Create-React-App application, meant as a conceptual demo.
 
-The files of interest are the `src/node-walker.ts`, and the `*-example` file(s) in each folder.
+The files of interest are the `src/tree-walker.ts`, and the `*-example` file(s) in each folder.
 Work backwards to view implementation details.
 
 Note that:
